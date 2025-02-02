@@ -2,7 +2,7 @@
 
 Chevron Track  
 
-RMSE: 7,374  
+**RMSE: 7,374**
 
 Devpost Link: https://devpost.com/software/_-bd476q?ref_content=user-portfolio&ref_feature=in_progress
 
