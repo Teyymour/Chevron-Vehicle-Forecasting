@@ -1,0 +1,5 @@
+.venv
+.DS_Store
+src/notebooks/catboost_info
+data
+results
